@@ -1,6 +1,6 @@
-title:            Z-one
-description:      A jekyll theme. Because I scribble.
-url:              # Site url.
+title:            Z·X·M
+description:      Product Designer ？ Yes.
+url:              zxming.com # Site url.
 baseurl:          # Base url. ( if use subdirectory-like URL )
 signoff:          Zxming # Your name.
 disqus_shortname: zxming # disqus comment thread for post header options. ( leave blank if unwanted. )
@@ -9,16 +9,14 @@ google_analytics_id: # set tracking, UA-XXXX-Y.
 links:
   - name:         About
     url:          /about
-  - name:         Feed
-    url:          /feed.xml
   - name:         UICN
     url:          http://i.ui.cn/ucenter/34804
     external:     true
+  - name:         Weibo
+    url:          http://weibo.com/zxmingcn
+    external:     true
   - name:         Email
     url:          mailto:i@zxming.com
-    external:     true
-  - name:         GitHub
-    url:          http://github.com/zxming
     external:     true
 
 pygments:         true
