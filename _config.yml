@@ -9,12 +9,6 @@ google_analytics_id: # set tracking, UA-XXXX-Y.
 links:
   - name:         About
     url:          /about
-  - name:         UICN
-    url:          http://i.ui.cn/ucenter/34804
-    external:     true
-  - name:         Weibo
-    url:          http://weibo.com/zxmingcn
-    external:     true
   - name:         Email
     url:          mailto:i@zxming.com
     external:     true
